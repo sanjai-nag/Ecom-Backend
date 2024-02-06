@@ -1,6 +1,6 @@
 1. Docker command to build the image
 
-      docker build   --build-arg DJANGO_SUPERUSER_USERNAME=admin   --build-arg DJANGO_SUPERUSER_EMAIL=admin@example.com   --build-arg DJANGO_SUPERUSER_PASSWORD=adminpassword   -t django-ecom:v1
+              docker build   --build-arg DJANGO_SUPERUSER_USERNAME=admin   --build-arg DJANGO_SUPERUSER_EMAIL=admin@example.com   --build-arg DJANGO_SUPERUSER_PASSWORD=adminpassword   -t django-ecom:v1
 
 2. Docker command to run the container.
 
