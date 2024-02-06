@@ -6,7 +6,7 @@
 
        docker run -p 8000:8000 django-ecom:v1
 
-3. Check the API access using the below URL and creds mentioned below.
+3. Check the API access using the below URL and creds mentioned.
 
        http://localhost:8000/admin/
 
